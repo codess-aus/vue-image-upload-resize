@@ -13,7 +13,11 @@
   },
   "dependencies": {
     "blueimp-canvas-to-blob": "^3.14.0",
-    "vue": "^2.5.17"
+    "customvision-tfjs": "^1.0.1",
+    "express": "^4.17.1",
+    "raw-loader": "^4.0.2",
+    "vue": "^2.5.17",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
